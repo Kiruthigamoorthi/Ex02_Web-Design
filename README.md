@@ -19,9 +19,45 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```<html>
 
+<tittle>sample web page</tittle> <head> <h1 align="center">Saveetha Engineering College</h1>
 
+</head>
+
+<body bgcolor-cyan>
+
+<p style="text-align:center"></p>
+
+<hr text-decoration-line:underline;
+
+text-decortion-thickness:3px>
+
+col style-list-style-type:upper-alpha>
+
+<li>Agricultural Engineering</li> <li>Computer Science & Engineering</li>
+
+<li>Information Technology </li> <li>Data Science</li>
+
+cul style-list-style-type:disc> <li>Artificial Intelligence-Machine Learning</11
+
+<li>Artificial Intelligence-Data Science</li>
+
+<li>Internet of Things</li>
+
+</ul>
+
+<li>Electronics & Communication Engineering</li>
+
+<li>Electrical & Electronics Engineering</li>
+
+<li>Mechanical Engineering</li>
+
+</body> 
+</html>
+```
 ## OUTPUT
+![EX NO 2 WEB](https://user-images.githubusercontent.com/127816726/228616298-4617056f-e915-434c-934f-5adf04a73f89.png)
 
 
 ## RESULT
