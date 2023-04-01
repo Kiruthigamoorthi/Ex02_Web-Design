@@ -45,7 +45,7 @@
 </html>
 ```
 ## OUTPUT
-![EX NO 2 WEB](https://user-images.githubusercontent.com/127816726/229268201-2baf1805-2427-4732-b7d5-5645921b148c.png)
+![EX NO 2 WEB](https://user-images.githubusercontent.com/127816726/229269235-78732a8a-3350-453a-9b4d-d5c161b1831e.png)
 
 
 
